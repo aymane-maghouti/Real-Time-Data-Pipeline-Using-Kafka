@@ -118,7 +118,7 @@ Here is the Dashboard created in Power BI:
 # Conclusion
 This project demonstrates an effective implementation of a real-time data pipeline using Apache Kafka, Python, SQL Server, and Power BI. It allows seamless collection, processing, and visualization of system metrics, enabling users to gain valuable insights into system performance.
 
-you can watch the demo video <a href="https://youtu.be/_RyK8cX-14Y?si=GY9s_i3l23vHVW_P" target="_blank">here</a> 
+you can watch the demo video <a href="https://www.youtube.com/watch?v=rVQFABynodw" target="_blank">here</a> 
 
 # Contacts
 For any inquiries or further information, please contact:
